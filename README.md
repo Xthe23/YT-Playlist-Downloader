@@ -1,4 +1,4 @@
-![alt text](https://i.imgur.com/X7ewg3w.png)
+![alt text](https://i.imgur.com/gwjuFpm.png)
 
 # YouTube-Downloader
 
